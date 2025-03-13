@@ -42,6 +42,10 @@ npm run dev
 npm test
 ```
 
+### **5 Testing the functionalities**
+```bash
+npm test
+```
 
 ## **My Github repository link**
 https://github.com/AthmeeyaM/Info655-Assignment
