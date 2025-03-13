@@ -42,5 +42,5 @@ npm run dev
 ## **My Github repository link**
 https://github.com/AthmeeyaM/Info655-Assignment
 
-## ** My Deployed link**
+## **My Deployed link**
 https://athmeeyam.github.io/Info655-Assignment/
