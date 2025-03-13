@@ -38,6 +38,10 @@ npm install
 npm run dev
 ```
 
+### **5 Testing the functionalities**
+```bash
+npm test
+```
 
 ## **My Github repository link**
 https://github.com/AthmeeyaM/Info655-Assignment
