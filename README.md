@@ -4,8 +4,8 @@ This repository consists of the react player with was built using the instructio
 
 ----
 
-# ** Steps on how to run this project
-### **1️⃣ Prerequisites**
+# Steps on how to run this project
+### **1️ Prerequisites**
 Ensure you have the following installed:
 
 - **Node.js (LTS recommended)** → [Download & Install](https://nodejs.org/)
@@ -21,28 +21,26 @@ Ensure you have the following installed:
 
 ---
 
-## 🏗 Project Setup
-
-### **2️⃣ Clone the Repository**
+### **2️ Clone the Repository**
 ```bash
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone https://github.com/AthmeeyaM/Info655-Assignment
+cd Info655-Assignment
 
-``ssh
+```
 
----
-
-3️⃣ Install Dependencies
-
-
+### **3️ Install Dependencies**
 ```bash
-
 npm install
-🚀 Running the Project
+```
 
-Start the development server:
-
-bash
-Copy
-Edit
+### **4 Running the project**
+```bash
 npm run dev
+```
+
+
+## **My Github repository link**
+https://github.com/AthmeeyaM/Info655-Assignment
+
+## ** My Deployed link**
+https://athmeeyam.github.io/Info655-Assignment/
