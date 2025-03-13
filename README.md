@@ -37,6 +37,10 @@ npm install
 ```bash
 npm run dev
 ```
+### **5 testing the functionalities**
+```bash
+npm test
+```
 
 
 ## **My Github repository link**
