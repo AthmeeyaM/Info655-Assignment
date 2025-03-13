@@ -8,7 +8,7 @@ const Playlist = () => {
   const [isPlaying, setIsPlaying] = useState(false);
 
   useEffect(() => {
-    fetch('/audio.json') // audio file is placed in public folder
+    fetch(`${import.meta.env.BASE_URL}audio.json`) // audio file is placed in public folder
       .then(response => response.json())
       .then(data => setAudioList(data))
       .catch(error => console.error('Error fetching audio data:', error));
@@ -50,7 +50,7 @@ const Playlist = () => {
       return shuffledList;
     });
   };
-
+ 
   return (
     <div style={styles.playlist}>
       <h2 style={styles.title}>My Playlist</h2>
