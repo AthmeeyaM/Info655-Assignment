@@ -53,7 +53,7 @@ const Playlist = () => {
  
   return (
     <div style={styles.playlist}>
-      <h2 style={styles.title}>My Playlist</h2>
+      <h2 style={styles.title}>am5548 Playlist</h2>
       <div style={styles.controls}>
         <button style={styles.buttonShuffle} onClick={shufflePlaylist}>Shuffle</button>
         <button style={styles.button} onClick={playPrev}>Prev</button>
